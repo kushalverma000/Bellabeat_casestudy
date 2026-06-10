@@ -41,6 +41,20 @@ Analyze smart-device usage data to identify user behavior trends and determine h
 - PowerPoint Presentation
 - Jupyter Notebook Analysis
 
+## Dashboard Preview
+
+### Dashboard 1 - User Overview
+
+![Dashboard 1](Dashboard_01.jpg)
+
+### Dashboard 2 - Weekly Behavior Analysis
+
+![Dashboard 2](Dashboard_02.jpg)
+
+### Dashboard 3 - Activity & Sleep Relationship
+
+![Dashboard 3](Dashboard_03.jpg)
+
 ## Repository Contents
 
 - Bellabeat_Analysis.ipynb
